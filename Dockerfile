@@ -3,8 +3,8 @@ FROM node:10
 ARG buildno
 ARG commitsha
 
-LABEL maintainer="Remco Jongschaap hello@dougley.com" \
-      repository="https://github.com/TheSharks/WildBeast" \
+LABEL maintainer="DeviLShAnto" \
+      repository="https://github.com/DeviLShAnto/WildBeast.git" \
       buildno=$buildno \
       commit=$commitsha
 
