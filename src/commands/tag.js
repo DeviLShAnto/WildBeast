@@ -16,7 +16,7 @@ module.exports = {
     level: 0,
     alias: ['t'],
     addons: [
-      'For a list of available subcommands, see https://docs.thesharks.xyz/commands/#tags.'
+      'For a list of available subcommands, see www.devilhub.ltd/tags.'
     ]
   },
   fn: async (msg, suffix) => {
